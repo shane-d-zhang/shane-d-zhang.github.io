@@ -3,19 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shane-d-zhang.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://shane-d-zhang.github.io/authors/</loc>
   </url>
   
   <url>
     <loc>https://shane-d-zhang.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shane-d-zhang.github.io/author/nelson-bighetti/</loc>
   </url>
   
   <url>
@@ -32,6 +24,14 @@
   
   <url>
     <loc>https://shane-d-zhang.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shane-d-zhang.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shane-d-zhang.github.io/author/shane-zhang/</loc>
   </url>
   
   <url>
