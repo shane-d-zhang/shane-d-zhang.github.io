@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne Deschamps | Shane Zhang</title>
+    <link>https://shane-d-zhang.github.io/author/anne-deschamps/</link>
+      <atom:link href="https://shane-d-zhang.github.io/author/anne-deschamps/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne Deschamps</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shane-d-zhang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Anne Deschamps</title>
+      <link>https://shane-d-zhang.github.io/author/anne-deschamps/</link>
+    </image>
+    
+    <item>
+      <title>Preparing for InSight: Evaluation of the Blind Test for Martian Seismicity</title>
+      <link>https://shane-d-zhang.github.io/publication/van-driel-etal-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shane-d-zhang.github.io/publication/van-driel-etal-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

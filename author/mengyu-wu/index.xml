@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengyu Wu | Shane Zhang</title>
+    <link>https://shane-d-zhang.github.io/author/mengyu-wu/</link>
+      <atom:link href="https://shane-d-zhang.github.io/author/mengyu-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mengyu Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shane-d-zhang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mengyu Wu</title>
+      <link>https://shane-d-zhang.github.io/author/mengyu-wu/</link>
+    </image>
+    
+    <item>
+      <title>Isotropic and Azimuthally Anisotropic Rayleigh Wave Dispersion across the Juan de Fuca and Gorda Plates and U.S. Cascadia from Earthquake Data and Ambient Noise Two- and Three-Station Interferometry</title>
+      <link>https://shane-d-zhang.github.io/publication/zhang-etal-2021-a/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shane-d-zhang.github.io/publication/zhang-etal-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
